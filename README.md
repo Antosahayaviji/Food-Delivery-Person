@@ -1,6 +1,5 @@
 # 🧑🏽‍🍼📦FOOD DELIVERY APP
-
-#📱 About this Website
+# 📱About this Website
 * This project is a responsive 🧑🏽‍🍼Delivery Partner Web Application built using React. The app is designed specifically for delivery drivers, helping them 📦manage orders, navigate to customer locations, track earnings, and 🔔view notifications in a clean and modern interface.
 
 # ✨ Project Overview
